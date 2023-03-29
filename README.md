@@ -21,5 +21,8 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=fadilmr&theme=algolia&show_icons=true)](https://github.com/fadilmr)
+
+<a href="https://github.com/fadilmr">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=fadilmr&theme=tokyonight&show_icons=true" />
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadilmr&theme=tokyonight" />
+</a>
