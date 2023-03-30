@@ -23,6 +23,6 @@
   ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 <a href="https://github.com/fadilmr">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=fadilmr&theme=tokyonight&show_icons=true" />
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadilmr&theme=tokyonight" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=fadilmr&theme=tokyonight&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadilmr&theme=tokyonight" />
 </a>
