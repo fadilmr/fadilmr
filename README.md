@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Informatics at Telkom University.
+- 🎓 &nbsp; Graduated from Informatics, Telkom University.
 
 - 🌱 &nbsp; Learning more about Artificial Intelligence and Game Development.
 
